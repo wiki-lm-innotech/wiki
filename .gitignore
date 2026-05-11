@@ -9,3 +9,10 @@
 
 # Non ignorare il file .gitignore stesso
 !.gitignore
+
+# Configurazione VS Code (Markdown PDF)
+!.vscode/settings.json
+!.vscode/pdf-style.css
+
+# Asset grafici
+!test_logo.png

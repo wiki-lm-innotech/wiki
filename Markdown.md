@@ -1,7 +1,8 @@
-(per aprire l'anteprima: Ctrl + shift + v)
-(per l'apice inverso ` : alt+96 su tastierino numerico)
-
 # Caratteri di Controllo Markdown
+
+> [!NOTE]
+> - Per aprire l'anteprima: `Ctrl + Shift + V`
+> - Per l'apice inverso (backtick) `` ` ``: `Alt + 96` (tastierino numerico)
 
 Ecco un elenco succinto dei principali caratteri di formattazione:
 
@@ -14,7 +15,7 @@ Ecco un elenco succinto dei principali caratteri di formattazione:
 - **Link**: `[testo](url)`
 - **Immagini**: `![alt](url)`
 - **Codice inline**: `` `codice` ``
-- **Blocchi di codice**: ` ``` ` (all'inizio e alla fine)
+- **Blocchi di codice**: ```` ``` ```` (all'inizio e alla fine)
 - **Citazioni**: `>`
 - **Linea orizzontale**: `---` o `***`
 - **Task list**: `- [ ]` (da fare) o `- [x]` (completato)

@@ -1,16 +1,3 @@
----
-export_on_save:
-  puppeteer: true
-puppeteer:
-  format: "A4"
-  margin:
-    top: "50px"
-    bottom: "80px"
-  displayHeaderFooter: true
-  headerTemplate: '<div style="font-size:10px; margin-left:20px;">Documento Riservato - Azienda S.p.A.</div>'
-  footerTemplate: '<div style="font-size:10px; margin: 0 auto;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>'
----
-
 # Progetto Firewall pfSense
 
 ## Introduzione

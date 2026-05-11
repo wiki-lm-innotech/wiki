@@ -1,0 +1,5 @@
+# U1. Assitente per esercizi fisici
+
+Un assistente che ti dice cosa fare durante un allenamento sportivo. 
+Tu componi un "percorso", una serie di esercizi che vuoi fare, per esempio 1 minuto di squat e un minuto di riposo, due minuti di flessioni e 30 secondi di riposo, 10 minuti di cyclette e 2 minuti di riposo. E il telefonino, interattivamente con la voce, ti guida. Si possono comprare percorsi già fatti o importarli da altri strumenti tipo Strava e Garmin. Mentre fai i 10 minuti di cyclette, ti fa sentire la musica da una tua playlist (o a caso secondo i tuoi gusti). Non devi guardare lo schermo ne premere tasti. Puoi chiedere "quanto manca?" come fai con Alexa per sapere a che punto sei della cyclette. Ci sono un sacco di coach online che fanno video dove ti fanno vedere gli esercizi e ti danno il tempo, ma non sono "modificabili" né "interattivi". Se corri, ti dice se sei in linea con quanto prefissato o se il ritmo è troppo alto/basso. Tutto a voce. 
+Si potrebbe presentare a chi fa video (Umberto Miletto) in modo che possa pubblicizzarlo e dare la possibilità di acquistare da loro i “corsi”.

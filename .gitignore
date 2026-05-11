@@ -1,0 +1,11 @@
+# Ignora tutto per impostazione predefinita
+*
+
+# Non ignorare le cartelle (necessario per cercare file .md all'interno)
+!*/
+
+# Non ignorare i file Markdown
+!*.md
+
+# Non ignorare il file .gitignore stesso
+!.gitignore
